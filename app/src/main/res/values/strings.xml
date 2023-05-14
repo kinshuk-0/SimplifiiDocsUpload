@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Simplifii Docs Upload</string>
+    <string name="upload_file">Click to Upload Document</string>
 </resources>
